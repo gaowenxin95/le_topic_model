@@ -6,4 +6,4 @@
 
 - [tf-idf词包模型文本相似度计算](https://github.com/gaowenxin95/le_topic_model/blob/master/analysis/tf-idf.ipynb)
 
-- [LSA$HDP$LDA主题模型，文本相似度及可视化](https://github.com/gaowenxin95/le_topic_model/blob/master/analysis/LDA.ipynb)
+- [LSA&HDP&LDA主题模型，文本相似度及可视化](https://github.com/gaowenxin95/le_topic_model/blob/master/analysis/LDA.ipynb)
